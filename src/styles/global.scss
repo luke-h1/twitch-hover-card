@@ -1,0 +1,9 @@
+@import './variables.scss';
+
+body {
+  background-color: rgb(10, 10, 10);
+  display: grid;
+  height: 100vh;
+  margin: 0px;
+  place-items: center;
+}
